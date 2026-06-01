@@ -1,0 +1,13 @@
+ma/solostock/negotiation/entity/OfferStatus.class
+ma/solostock/negotiation/DataSeeder.class
+ma/solostock/negotiation/service/NegotiationService.class
+ma/solostock/negotiation/controller/NegotiationController.class
+ma/solostock/negotiation/entity/Contract.class
+ma/solostock/negotiation/dto/ContractRequest.class
+ma/solostock/negotiation/entity/Contract$ContractBuilder.class
+ma/solostock/negotiation/entity/Offer.class
+ma/solostock/negotiation/entity/Offer$OfferBuilder.class
+ma/solostock/negotiation/repository/OfferRepository.class
+ma/solostock/negotiation/dto/OfferRequest.class
+ma/solostock/negotiation/repository/ContractRepository.class
+ma/solostock/negotiation/NegotiationServiceApplication.class

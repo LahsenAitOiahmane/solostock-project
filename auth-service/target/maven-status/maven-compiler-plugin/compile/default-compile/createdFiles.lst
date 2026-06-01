@@ -1,0 +1,16 @@
+ma/solostock/auth/repository/UserRepository.class
+ma/solostock/auth/controller/AuthController.class
+ma/solostock/auth/entity/Role.class
+ma/solostock/auth/dto/RegisterRequest.class
+ma/solostock/auth/entity/User.class
+ma/solostock/auth/service/AuthService.class
+ma/solostock/auth/dto/UserDto$UserDtoBuilder.class
+ma/solostock/auth/dto/UserDto.class
+ma/solostock/auth/dto/AuthResponse$AuthResponseBuilder.class
+ma/solostock/auth/dto/LoginRequest.class
+ma/solostock/auth/config/DataSeeder.class
+ma/solostock/auth/dto/AuthResponse.class
+ma/solostock/auth/entity/User$UserBuilder.class
+ma/solostock/auth/config/SecurityConfig.class
+ma/solostock/auth/AuthServiceApplication.class
+ma/solostock/auth/security/JwtService.class

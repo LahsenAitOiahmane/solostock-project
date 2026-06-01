@@ -1,0 +1,12 @@
+ma/solostock/catalog/CatalogServiceApplication.class
+ma/solostock/catalog/service/ProductService.class
+ma/solostock/catalog/entity/ProductStatus.class
+ma/solostock/catalog/dto/ProductRequest.class
+ma/solostock/catalog/controller/ProductController.class
+ma/solostock/catalog/entity/Product.class
+ma/solostock/catalog/DataSeeder.class
+ma/solostock/catalog/dto/ProductResponse.class
+ma/solostock/catalog/repository/ProductRepository.class
+ma/solostock/catalog/entity/Category.class
+ma/solostock/catalog/entity/Product$ProductBuilder.class
+ma/solostock/catalog/dto/ProductResponse$ProductResponseBuilder.class

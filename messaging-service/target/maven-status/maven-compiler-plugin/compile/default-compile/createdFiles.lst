@@ -1,0 +1,8 @@
+ma/solostock/messaging/config/WebSocketConfig.class
+ma/solostock/messaging/entity/Message.class
+ma/solostock/messaging/repository/MessageRepository.class
+ma/solostock/messaging/dto/MessageDto.class
+ma/solostock/messaging/controller/MessageController.class
+ma/solostock/messaging/config/SecurityConfig.class
+ma/solostock/messaging/service/MessageService.class
+ma/solostock/messaging/MessagingServiceApplication.class

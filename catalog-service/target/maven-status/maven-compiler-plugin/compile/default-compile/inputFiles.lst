@@ -1,0 +1,10 @@
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/entity/Product.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/entity/Category.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/repository/ProductRepository.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/entity/ProductStatus.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/DataSeeder.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/dto/ProductResponse.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/dto/ProductRequest.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/service/ProductService.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/CatalogServiceApplication.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/catalog-service/src/main/java/ma/solostock/catalog/controller/ProductController.java

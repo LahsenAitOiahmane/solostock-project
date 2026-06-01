@@ -1,0 +1,13 @@
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/dto/AuthResponse.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/config/DataSeeder.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/security/JwtService.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/dto/UserDto.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/AuthServiceApplication.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/dto/RegisterRequest.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/config/SecurityConfig.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/dto/LoginRequest.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/controller/AuthController.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/service/AuthService.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/entity/User.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/repository/UserRepository.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/auth-service/src/main/java/ma/solostock/auth/entity/Role.java

@@ -1,0 +1,5 @@
+ma/solostock/analytics/dto/DashboardDto.class
+ma/solostock/analytics/dto/DashboardDto$DashboardDtoBuilder.class
+ma/solostock/analytics/service/AnalyticsService.class
+ma/solostock/analytics/AnalyticsServiceApplication.class
+ma/solostock/analytics/controller/AnalyticsController.class

@@ -1,0 +1,8 @@
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/controller/MessageController.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/config/WebSocketConfig.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/config/SecurityConfig.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/service/MessageService.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/dto/MessageDto.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/MessagingServiceApplication.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/entity/Message.java
+/mnt/c/Users/sadik/Documents/project-java/Solostock-project/messaging-service/src/main/java/ma/solostock/messaging/repository/MessageRepository.java
