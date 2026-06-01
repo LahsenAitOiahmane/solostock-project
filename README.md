@@ -22,6 +22,10 @@ Solostock B2B est une application web full-stack permettant aux fournisseurs de 
 
 <div align="center">
 
+<a href="https://www.youtube.com/watch?v=L8BhLHBoUCQ">
+  <img src="https://img.youtube.com/vi/L8BhLHBoUCQ/hqdefault.jpg" alt="Démo YouTube Solostock B2B" width="720" />
+</a>
+
 > **Comptes de démonstration** — tous avec le mot de passe `password123`
 
 | Rôle | Email | Accès |
